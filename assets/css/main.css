@@ -698,7 +698,7 @@ input, select, textarea {
 			display: flex;
 			justify-content: center;
 			margin: 2.5rem 0;
-			width: 50%;
+			width: 100%;
 		}
 
 			.image.main img {
